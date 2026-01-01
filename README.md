@@ -17,6 +17,3 @@ This project loads PDFs, splits them into chunks, embeds them into a vector data
 - Production-style ingestion logic (one-time embedding)
 
 ---
-
-## 📁 Project Structure
-
