@@ -1,0 +1,12 @@
+# Virtual env
+venv/
+
+# Environment variables
+.env
+
+# ChromaDB
+docs/chroma/
+
+# Python cache
+__pycache__/
+*.pyc
